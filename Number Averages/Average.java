@@ -4,7 +4,7 @@
  *  @version 1
  */
 import java.util.Scanner; // import the scanner class from the java.util package
-import java.text.DecimalFormat234; // import the java.text package
+import java.text.DecimalFormat; // import the java.text package
 
 public class Average { // create the class
     public static void main(String[] args) {
